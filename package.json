@@ -1,0 +1,4 @@
+{
+  "name": "snyk-yarn-patch-bug",
+  "packageManager": "yarn@4.6.0"
+}
