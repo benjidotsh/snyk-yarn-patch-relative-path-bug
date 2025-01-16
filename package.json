@@ -1,4 +1,7 @@
 {
   "name": "snyk-yarn-patch-bug",
-  "packageManager": "yarn@4.6.0"
+  "packageManager": "yarn@4.6.0",
+  "dependencies": {
+    "snyk": "patch:snyk@npm%3A1.1295.0#.yarn/patches/snyk-npm-1.1295.0-a34d9fc252.patch"
+  }
 }
